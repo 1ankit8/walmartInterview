@@ -1,0 +1,22 @@
+{
+  "name": "walmartinterview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ankit8/walmartInterview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ankit8/walmartInterview/issues"
+  },
+  "homepage": "https://github.com/1ankit8/walmartInterview#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
